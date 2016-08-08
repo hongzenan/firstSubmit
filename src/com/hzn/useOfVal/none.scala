@@ -9,5 +9,6 @@ import javafx.application.Application
 object none {
   def main(args: Array[String]): Unit = {
     println("Hello World!")
+    println("Love zz")
   }
 }
